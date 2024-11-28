@@ -125,8 +125,8 @@ int main()//definindo variáveis
 		printf("\t1-registrar nome\n");// comand.barra t add espaço no início
 		printf("\t2-consultar nomes\n");
 		printf("\t3-deletar nomes\n\n");
-		printf("qual opção desejada");//final menu
 		printf("\t4-sair do sistema\n\n ");
+		printf("qual opção desejada");//final menu
 		
     	scanf("%d",&opcao); // pausa o programa e aguarda instruçoes,armazenando escolha do usuário 
     
